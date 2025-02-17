@@ -8,8 +8,10 @@ nom2 = "Juliette"
 prenom2 = "Benguigui"
 metier2 = "star internationale"
 
-nom3 = "Conter"
-prenom3 = "Mélina"
+nom3 = "Samsa"
+prenom3 = "Camille"git push --set-upstream origin ma_branche_de_bg
 metier3 = "Une dingz"
 
+
 print(f"Bonjour je suis {prenom2} {nom2} et je suis une {metier2}")
+
