@@ -1,15 +1,15 @@
-nom = "Conte"
-prenom = "Lilla" 
-metier = "Garde foresterière spécialisée en dataviz"
+nom = "Husson"
+prenom = "Pierre" 
+metier = "Chasseur d'estampes"
 
 print(f"Bonjour je m'appelle {prenom} {nom} et j'exerce le métier de {metier}")
 
-nom2 = "Juliette"
-prenom2 = "Benguigui"
+nom2 = "Mélina"
+prenom2 = "Conter"
 metier2 = "star internationale"
 
-nom3 = "Conter"
-prenom3 = "Mélina"
-metier3 = "Une dingz"
+nom3 = "Ledieu"
+prenom3 = "Lucie"
+metier3 = "Rien"
 
 print(f"Bonjour je suis {prenom2} {nom2} et je suis une {metier2}")
