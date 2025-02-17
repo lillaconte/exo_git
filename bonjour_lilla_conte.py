@@ -8,4 +8,9 @@ nom2 = "Juliette"
 prenom2 = "Benguigui"
 metier2 = "star internationale"
 
+nom3 = "Samsa"
+prenom3 = "Camille"
+metier3 = "grande comédienne"
+
 print(f"Bonjour je suis {prenom2} {nom2} et je suis une {metier2}")
+
